@@ -1,0 +1,29 @@
+_repo: Troubled-Waters_69342
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    alias: Raine, William McLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: https://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: ''
+gutenberg_issued: '2022-11-13'
+identifiers:
+  gutenberg: '69342'
+language: en
+pgterms:marc905: 20221110190254raine
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United States: Grosset & Dunlap,1918,copyright 1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Troubled Waters
+url: http://www.gutenberg.org/ebooks/69342
